@@ -4,17 +4,17 @@
 Death by suicide is an extremely complex issue that causes pain to hundreds of thousands of people every year around the world. 
 
 Data Dictionary
-  Country
-  Year
-  Sex
-  Age
-  Number of suicides
-  Population
-  Country-year
-  HDI for year
-  GDP for year
-  GDP per capita
-  Generation
+ Country
+ Year
+ Sex
+ Age
+ Number of suicides
+ Population
+ Country-year
+ HDI for year
+ GDP for year
+ GDP per capita
+ Generation
   
 Analysis Task
   1.Count Plot for Generations.

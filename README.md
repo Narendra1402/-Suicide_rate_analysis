@@ -1,4 +1,4 @@
-# -Suicide_rate_analysis
+# Suicide_rate_analysis
 ![image](https://user-images.githubusercontent.com/122566558/233474983-2081c9f4-d780-4109-9605-936ead57f430.png)
 
 Death by suicide is an extremely complex issue that causes pain to hundreds of thousands of people every year around the world. 
